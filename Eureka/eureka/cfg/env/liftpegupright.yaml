@@ -1,0 +1,4 @@
+# eureka/cfg/env/lift_peg_uplight.yaml
+description: to lift the peg upright.
+env_name: LiftPegUprightGPT
+task : LiftPegUpright

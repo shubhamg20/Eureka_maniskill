@@ -1,0 +1,4 @@
+# eureka/cfg/env/push_cube.yaml
+description: to push a cube to a target location on a tabletop.
+env_name: PushCubeGPT
+task : PushCube

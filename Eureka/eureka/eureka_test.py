@@ -1,5 +1,4 @@
-import mani_skill.envs
 import gymnasium as gym
-
-env_name = "PickCube-v1"
-env = gym.make(env_name)
+import mani_skill.envs
+from envs.maniskill.pushcubegpt import PushCubeGPTEnv
+env = gym.make("PushCubeGPT")

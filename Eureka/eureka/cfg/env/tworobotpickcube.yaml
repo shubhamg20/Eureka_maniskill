@@ -1,0 +1,3 @@
+description: to pick up a red cube and lift it to a goal location. There are two robots in this task and the goal location is out of reach of the left robot while the cube is out of reach of the right robot, thus the two robots must work together to move the cube to the goal.
+env_name: TwoRobotPickCubeGPT
+task : TwoRobotPickCube

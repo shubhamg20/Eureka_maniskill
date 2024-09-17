@@ -1,0 +1,4 @@
+# eureka/cfg/env/pull_cube.yaml
+description: to pull a cube from behind the cube, not grip it to a target location on a tabletop.
+env_name: PullCubeGPT
+task : PullCube
