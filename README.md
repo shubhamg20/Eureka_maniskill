@@ -4,26 +4,27 @@ This repository implements the Eureka framework ([https://eureka-research.github
 
 ## Installation
 
-1. **Create a conda environment:**
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/shubhamg20/Eureka_maniskill.git
+
+3. **Create a conda environment:**
 
    ```bash
    conda create -n eureka-maniskill python==3.9  
 
-2. **Activate the conda environment:**
+4. **Activate the conda environment:**
    ```bash
    conda activate eureka-maniskill
 
-3. **Install Dependicies:**
+5. **Install Dependicies:**
 
    ```bash
    pip install mani_skill
    cd Eureka; pip install -e .
 
-4. **Activate the conda environemt**
-   ```bash
-   conda activate eureka-maniskill
-
-   ## Eureka-Maniskill: Applying Eureka on Maniskill Simulator
+## Eureka-Maniskill: Applying Eureka on Maniskill Simulator
 
 This repository implements the Eureka framework ([https://eureka-research.github.io/](https://eureka-research.github.io/)) for Maniskill simulator([https://maniskill.readthedocs.io/en/latest/index.html](https://maniskill.readthedocs.io/en/latest/index.html)), replicating the functionality originally designed for Isaac Gym. It allows you to train robots on various manipulation tasks using Maniskill's rich environment and diverse task options.
 
