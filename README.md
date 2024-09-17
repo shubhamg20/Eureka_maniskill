@@ -7,7 +7,7 @@ This repository implements the Eureka framework ([https://eureka-research.github
 1. **Create a conda environment:**
 
    ```bash
-   conda create -n eureka-maniskill
+   conda create -n eureka-maniskill python==3.9  
 
 2. **Activate the conda environment:**
    ```bash
